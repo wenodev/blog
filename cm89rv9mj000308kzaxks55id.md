@@ -2,7 +2,7 @@
 title: "실패로부터 배우기"
 datePublished: Sat Mar 15 2025 05:34:32 GMT+0000 (Coordinated Universal Time)
 cuid: cm89rv9mj000308kzaxks55id
-slug: 7iuk7yyo66gc67aa7yswiouwsoyasoq4sa
+slug: learning-from-failure
 
 ---
 
